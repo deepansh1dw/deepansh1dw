@@ -2,9 +2,7 @@
 - 👀 I’m interested in coding and focused on full-stack Web devlopment.
 - 🌱 I’m currently learning DSA and Frameworks like Express.js, React, and Node.js
 - 💞️ I’m looking to collaborate on innovative web applications, open-source projects, or anything that helps solve real-world problems.
-- 📫 Reach Me
-
-I'm always open to collaboration, feedback, and new opportunities! If you're working on something exciting or just want to connect, feel free to reach out:
+- 📫 I'm always open to collaboration, feedback, and new opportunities! If you're working on something exciting or just want to connect, feel free to reach out:
 
 * 📧 Email:deepanshdwivedi2@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/in/deepansh-mani-dwivedi-02753b282
